@@ -1,0 +1,6 @@
+[submodule "android"]
+	path = android
+	url = https://github.com/fydp/android.git
+[submodule "server-js"]
+	path = server-js
+	url = https://github.com/fydp/server-js.git
